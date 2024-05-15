@@ -1,0 +1,45 @@
+#gameMod, #number_ofPlayer, #score, #multipliers{
+    margin-top: 50px;
+    background-color:dimgray;
+    color: yellow;
+    padding: 2px;
+    text-align: center;
+    border: 0px;
+    
+}
+
+#btn{
+    margin-top: 50px;
+    background-color: dimgray;
+    color: yellow;
+    padding: 10px;
+    text-align: center;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 0px;
+    
+}
+#btn:hover{
+    background-color:  yellow;
+    color:dimgray;
+   
+}
+
+#dartOyunuStart{
+  margin-top: 100px;
+}
+
+#gamerList{
+  margin-top: 50px;
+}
+ul{
+  list-style-type: none;
+}
+
+#winner{
+  color: rgb(255, 77, 77);
+  padding: 20px;
+  font-size: 25px;
+
+}
